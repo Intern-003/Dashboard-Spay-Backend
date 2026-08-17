@@ -1,0 +1,44 @@
+ [ 2025-12-19 00:03:04 ]  : Airpay Callback Received {"request_array":{"decodedResponse":{"status_code":"200","status":"success","response_code":"00","message":"Success","data":{"merchant_id":"348963","ap_transactionid":"1606736632","amount":"10.00","transaction_status":400,"message":"Fail","ap_securehash":"2869929155","orderid":"YUV100001","chmod":"upi","customer_name":null,"customer_email":"YUVRAJ@GMAIL.COM","customer_phone":"7004069540","currency_code":"356","risk":"0","transaction_type":320,"transaction_payment_status":"FAIL","transaction_time":"18-12-2025 21:35:52","reason":null,"merchant_name":"SOULFUL OVERSEAS 3","billed_amount":"10.00"}},"timestamp":"2025-12-19 00:02:53"},"raw_content":"{\"decodedResponse\":{\"status_code\":\"200\",\"status\":\"success\",\"response_code\":\"00\",\"message\":\"Success\",\"data\":{\"merchant_id\":\"348963\",\"ap_transactionid\":\"1606736632\",\"amount\":\"10.00\",\"transaction_status\":400,\"message\":\"Fail\",\"ap_securehash\":\"2869929155\",\"orderid\":\"YUV100001\",\"chmod\":\"upi\",\"customer_name\":\"\",\"customer_email\":\"YUVRAJ@GMAIL.COM\",\"customer_phone\":\"7004069540\",\"currency_code\":\"356\",\"risk\":\"0\",\"transaction_type\":320,\"transaction_payment_status\":\"FAIL\",\"transaction_time\":\"18-12-2025 21:35:52\",\"reason\":null,\"merchant_name\":\"SOULFUL OVERSEAS 3\",\"billed_amount\":\"10.00\"}},\"timestamp\":\"2025-12-19 00:02:53\"}"}
+
+ [ 2025-12-19 00:03:04 ]  : No report found for payid {"payid":"YUV100001"}
+
+ [ 2025-12-19 00:43:13 ]  : Airpay Callback Received {"request_array":{"decodedResponse":null,"timestamp":"2025-12-19 00:43:02"},"raw_content":"{\"decodedResponse\":null,\"timestamp\":\"2025-12-19 00:43:02\"}"}
+
+ [ 2025-12-19 00:43:13 ]  : payid missing in Airpay response {"response":{"decodedResponse":null,"timestamp":"2025-12-19 00:43:02"}}
+
+ [ 2025-12-19 00:46:13 ]  : Airpay Callback Received {"request_array":{"decodedResponse":null,"timestamp":"2025-12-19 00:46:02"},"raw_content":"{\"decodedResponse\":null,\"timestamp\":\"2025-12-19 00:46:02\"}"}
+
+ [ 2025-12-19 00:46:13 ]  : payid missing in Airpay response {"response":{"decodedResponse":null,"timestamp":"2025-12-19 00:46:02"}}
+
+ [ 2025-12-19 00:47:13 ]  : Airpay Callback Received {"request_array":{"decodedResponse":null,"timestamp":"2025-12-19 00:47:03"},"raw_content":"{\"decodedResponse\":null,\"timestamp\":\"2025-12-19 00:47:03\"}"}
+
+ [ 2025-12-19 00:47:13 ]  : payid missing in Airpay response {"response":{"decodedResponse":null,"timestamp":"2025-12-19 00:47:03"}}
+
+ [ 2025-12-19 00:49:13 ]  : Airpay Callback Received {"request_array":{"decodedResponse":null,"timestamp":"2025-12-19 00:49:03"},"raw_content":"{\"decodedResponse\":null,\"timestamp\":\"2025-12-19 00:49:03\"}"}
+
+ [ 2025-12-19 00:49:13 ]  : payid missing in Airpay response {"response":{"decodedResponse":null,"timestamp":"2025-12-19 00:49:03"}}
+
+ [ 2025-12-19 00:56:14 ]  : Airpay Callback Received {"request_array":{"decodedResponse":null,"timestamp":"2025-12-19 00:56:03"},"raw_content":"{\"decodedResponse\":null,\"timestamp\":\"2025-12-19 00:56:03\"}"}
+
+ [ 2025-12-19 00:56:14 ]  : payid missing in Airpay response {"response":{"decodedResponse":null,"timestamp":"2025-12-19 00:56:03"}}
+
+ [ 2025-12-19 01:00:13 ]  : Airpay Callback Received {"request_array":{"decodedResponse":null,"timestamp":"2025-12-19 01:00:03"},"raw_content":"{\"decodedResponse\":null,\"timestamp\":\"2025-12-19 01:00:03\"}"}
+
+ [ 2025-12-19 01:00:13 ]  : payid missing in Airpay response {"response":{"decodedResponse":null,"timestamp":"2025-12-19 01:00:03"}}
+
+ [ 2025-12-19 01:07:13 ]  : Airpay Callback Received {"request_array":{"decodedResponse":null,"timestamp":"2025-12-19 01:07:03"},"raw_content":"{\"decodedResponse\":null,\"timestamp\":\"2025-12-19 01:07:03\"}"}
+
+ [ 2025-12-19 01:07:13 ]  : payid missing in Airpay response {"response":{"decodedResponse":null,"timestamp":"2025-12-19 01:07:03"}}
+
+ [ 2025-12-19 01:11:13 ]  : Airpay Callback Received {"request_array":{"decodedResponse":null,"timestamp":"2025-12-19 01:11:03"},"raw_content":"{\"decodedResponse\":null,\"timestamp\":\"2025-12-19 01:11:03\"}"}
+
+ [ 2025-12-19 01:11:13 ]  : payid missing in Airpay response {"response":{"decodedResponse":null,"timestamp":"2025-12-19 01:11:03"}}
+
+ [ 2025-12-19 18:20:44 ]  : Airpay Callback Received {"request_array":{"decodedResponse":null,"timestamp":"2025-12-19 18:20:34"},"raw_content":"{\"decodedResponse\":null,\"timestamp\":\"2025-12-19 18:20:34\"}"}
+
+ [ 2025-12-19 18:20:44 ]  : payid missing in Airpay response {"response":{"decodedResponse":null,"timestamp":"2025-12-19 18:20:34"}}
+
+ [ 2025-12-19 18:20:45 ]  : Airpay Callback Received {"request_array":{"decodedResponse":{"status_code":"200","status":"success","response_code":"00","message":"Success","data":{"merchant_id":"348963","ap_transactionid":"1609446459","amount":"10.00","transaction_status":200,"message":"Success","ap_securehash":"2856769419","orderid":"Test511214867860","chmod":"upi","customer_name":null,"customer_email":"TEST@GMAIL.COM","customer_phone":"1122336655","currency_code":"356","risk":"0","transaction_type":320,"transaction_payment_status":"SUCCESS","transaction_time":"19-12-2025 18:19:06","reason":null,"merchant_name":"SOULFUL OVERSEAS 3","billed_amount":"10.00","rrn":"656630773007","customer_vpa":"7004069540@axl"}},"timestamp":"2025-12-19 18:20:24"},"raw_content":"{\"decodedResponse\":{\"status_code\":\"200\",\"status\":\"success\",\"response_code\":\"00\",\"message\":\"Success\",\"data\":{\"merchant_id\":\"348963\",\"ap_transactionid\":\"1609446459\",\"amount\":\"10.00\",\"transaction_status\":200,\"message\":\"Success\",\"ap_securehash\":\"2856769419\",\"orderid\":\"Test511214867860\",\"chmod\":\"upi\",\"customer_name\":\"\",\"customer_email\":\"TEST@GMAIL.COM\",\"customer_phone\":\"1122336655\",\"currency_code\":\"356\",\"risk\":\"0\",\"transaction_type\":320,\"transaction_payment_status\":\"SUCCESS\",\"transaction_time\":\"19-12-2025 18:19:06\",\"reason\":null,\"merchant_name\":\"SOULFUL OVERSEAS 3\",\"billed_amount\":\"10.00\",\"rrn\":\"656630773007\",\"customer_vpa\":\"7004069540@axl\"}},\"timestamp\":\"2025-12-19 18:20:24\"}"}
+
+ [ 2025-12-19 18:20:45 ]  : No report found for payid {"payid":"Test511214867860"}
+
